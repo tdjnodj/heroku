@@ -197,8 +197,8 @@ addEventListener(
 )
 ```
 
-### 原作者项目地址：~~https://github.com/mixool/xrayku~~
-原作者博客:https://www.ifts.ml
+### 原作者项目地址：~~https://github.com/mixool/xrayku~~ (疑似被heroku官方通过正规手段删库，后该账号废除)
+### 原作者博客:https://www.ifts.ml
 
 # 鸣谢
 
