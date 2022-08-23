@@ -94,6 +94,7 @@
 |Android SagerNet|是，需要安装trojan-go plugin|
 |IOS 到处都是|自行研究|
 |全平台 clash(各种版本)|是，自行参考文档|
+|全平台 v2RayA|是，疑似不能开启mux且无法稳定测延迟|
 |~~QV2Ray~~|是，需安装trojan-go插件，并且mux只能选右上角通用的，不能选插件里的|
 
 ## 5：Caddy主页配置
@@ -196,7 +197,8 @@ addEventListener(
 )
 ```
 
-### 原作者项目地址：https://github.com/mixool/xrayku
+### 原作者项目地址：~~https://github.com/mixool/xrayku~~
+原作者博客:https://www.ifts.ml
 
 # 鸣谢
 
@@ -208,3 +210,4 @@ addEventListener(
 - [Better Cloudflare IP](https://github.com/badafans/better-cloudflare-ip.git)
 - [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest.git)
 - [CloudflarespeedTest-Rust](https://github.com/lixiang810/CloudflareSpeedTest-Rust.git)
+- [辰漉博客](https://www.ifts.ml/)
