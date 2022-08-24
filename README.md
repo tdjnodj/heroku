@@ -91,7 +91,7 @@
 |windows/Android V2RayN</br>2dust V2RayNG|是，需要V2RayN4.26+或V2RayNG最新版本(Pre-release)</br>需要电脑端.net framework 6.0及更高版本|
 |OpenWrt SSRPlus+|是|
 |OpenWrt Passwall|是，需要最新版本passwall|
-|Android SagerNet|是，需要安装trojan-go plugin|
+|Android SagerNet|是，需要安装trojan-go plugin。不支持mux?|
 |IOS 到处都是|自行研究|
 |全平台 clash(各种版本)|是，自行参考文档|
 |全平台 v2RayA|是，疑似不能开启mux且无法稳定测延迟|
