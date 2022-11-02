@@ -1,3 +1,6 @@
+# 撒花🎉🎉🎉🌹🌹🌹
+感谢某位白嫖大王，heroku将于2022年11月28日关停免费服务！！！
+
 ## 注意事项
 1）5月8日晚，CloudFlare Workers 的业务域名 Workers.dev 被防火长城 DNS 污染、SNI阻断。
 
